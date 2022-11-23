@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 jitssmks
+=======
+github
+>>>>>>> B1
 d
-xznx
+enfjkjnf
